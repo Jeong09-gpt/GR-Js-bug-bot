@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ *GR-Js Bot Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
