@@ -1,12 +1,12 @@
  
 
-<h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
+<h1 align="center">ꪶGR-Js-bug-bot.gitꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/a2e5d1851171e21e7ba82.jpg"/>
+<img src="https://telegra.ph/file/ca0d2ddf361c69bdd52fd.jpg"/>
 </p>
 
 <p align="center">
- *GR-Js Bot Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/"Jeong09-gpt/ target="_blank">Jeo</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
@@ -15,14 +15,14 @@
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Jeong09-gpt/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jeong09-gpt?color=red&style=flat-square"></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jeong09-gpt/GR-Js-bug-bot.git?color=blue&style=flat-square"></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jeong09-gpt/GR-Js-bug-bot.git?color=red&style=flat-square"></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jeong09-gpt/GR-Js-bug-bot.git?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git"><img title="Open Source" src="https://img.shields.io/badge/Author-GR-Js%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/"><img title="Size" src="https://img.shields.io/github/repo-size/Jeong09-gpt/GR-Js-bug-bot.git?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Jeong09-gpt%2FGR--Js-bug-bot.git&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -37,14 +37,14 @@
 
 ## ```Bot Support Group Chats```
 
-- [`GC`](https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV)
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`GC`](https://chat.whatsapp.com/L5ptNPpYvjQ0Lbaomcohvt )
+- [`Channel`](https://whatsapp.com/channel/0029Vaio1Ih3GJOw6qc1EM0p)
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [`Here`](https://github.com/Jeong09-gpt/GR-Js-bug-bot.git/fork)
 
 ## `Generate Pair Code For Session`
 
@@ -69,7 +69,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](heroku.com)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Classic-v3-BUG
+* Locate GR-Js-bug-bot.git
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -98,8 +98,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/Samue-l1/Classic-v3-BUG
-cd Classic-v3-BUG
+git clone https://github.com/Jeong09-gpt/GR-Js-bug-bot.git
+cd GR-Js-bug-bot.git
 yarn install
 npm start
 ```
@@ -111,8 +111,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/Samue-l1/Classic-v3-BUG 
-cd Classic-v3-BUG
+git clone https://github.com/Jeong09-gpt/GR-Js-bug-bot.git
+cd GR-Js-bug-bot.git
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
