@@ -48,15 +48,9 @@
 
 ## `Generate Pair Code For Session`
 
-[`Classic Pairing Using Render`](https://classic-v3-session.onrender.com)
+[`GR-J's Pairing Using Render`](https://classic-v3-session.onrender.com)
 
-[`Classic Pairing using Replit`](https://replit.com/@pesguru02/Classic-Pairing?s=app)
-
-[`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
-
-[`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85)
-
-[`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u)
+[`GR-J's bug Pairing using Replit`](https://replit.com/@pesguru02/Classic-Pairing?s=app)
 
 # Instalasi
 ## Heroku Buildpack
